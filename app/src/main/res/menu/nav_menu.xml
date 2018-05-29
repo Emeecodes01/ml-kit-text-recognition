@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/file"
+        android:title="Choose from File">
+    </item>
+
+    <item android:title="Open Camera"
+        android:id="@+id/camera">
+    </item>
+
+</menu>
